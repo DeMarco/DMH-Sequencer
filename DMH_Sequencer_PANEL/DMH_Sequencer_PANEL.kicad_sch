@@ -1008,10 +1008,28 @@
 		(uuid "09b652b9-ca5f-4493-894b-ae2129f3ae41")
 	)
 	(junction
+		(at 190.5 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0aa2d864-d60c-4387-b9aa-6e8b181ce1e7")
+	)
+	(junction
+		(at 127 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11c5077d-13c8-4a78-974e-97b065b685b3")
+	)
+	(junction
 		(at 114.3 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "13fd55ac-33c1-440f-a60d-9aa0cfa20d8b")
+	)
+	(junction
+		(at 254 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "14a4da53-3da3-4acc-b925-eb7cb6a76dbd")
 	)
 	(junction
 		(at 50.8 120.65)
@@ -1026,6 +1044,18 @@
 		(uuid "2220a7db-b9cf-484d-816c-4e98f5024b7e")
 	)
 	(junction
+		(at 158.75 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "258a5d1a-340a-45b8-a342-d09417546ea8")
+	)
+	(junction
+		(at 177.8 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "268f742f-f8b1-4322-b2ef-cdd4d824cefc")
+	)
+	(junction
 		(at 241.3 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1036,6 +1066,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2aeae13b-50b7-4986-993b-c2cd5563e16d")
+	)
+	(junction
+		(at 215.9 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30534a48-06c3-4eba-bf8b-605fde8d1e63")
+	)
+	(junction
+		(at 241.3 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30c92d80-bb03-4341-a928-40d2e965211f")
 	)
 	(junction
 		(at 139.7 133.35)
@@ -1104,6 +1146,12 @@
 		(uuid "4745c528-63f5-43f0-a533-c8a08572ad75")
 	)
 	(junction
+		(at 203.2 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "475b1c72-576b-40e2-b16f-5b28112565dd")
+	)
+	(junction
 		(at 190.5 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1146,6 +1194,12 @@
 		(uuid "5188c023-8c22-44cc-ba35-21641dc10282")
 	)
 	(junction
+		(at 215.9 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5370bf5b-25ce-44aa-9d0a-ed3b71f655c6")
+	)
+	(junction
 		(at 19.05 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1168,6 +1222,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "609cdad3-cf06-4ed1-bea7-00f83e613656")
+	)
+	(junction
+		(at 228.6 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6418c811-ec14-4e49-9fe5-f7298b11bc63")
 	)
 	(junction
 		(at 50.8 182.88)
@@ -1210,6 +1270,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "789163fa-55ff-4ade-9c48-e811730c6860")
+	)
+	(junction
+		(at 254 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7898c81e-1c51-4ee7-ac87-539c220fd6b4")
 	)
 	(junction
 		(at 25.4 82.55)
@@ -1264,6 +1330,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a6bb410-38d4-403f-8a70-130dc63d9d74")
+	)
+	(junction
+		(at 203.2 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c228b9e-0c3e-4372-811b-bd44e2c35813")
+	)
+	(junction
+		(at 177.8 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d843e10-f405-45b4-b0b8-585b9bffe553")
 	)
 	(junction
 		(at 19.05 146.05)
@@ -1368,6 +1446,18 @@
 		(uuid "bb873ffc-8c77-4b07-87e3-1cf8a458c876")
 	)
 	(junction
+		(at 228.6 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd4335ee-cfac-49ed-a098-8c368717dd3b")
+	)
+	(junction
+		(at 241.3 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd6ca955-08d1-4225-884e-45ad8dc4b924")
+	)
+	(junction
 		(at 190.5 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1384,6 +1474,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bef2032b-b156-4d4a-92fa-af6dbbf740d3")
+	)
+	(junction
+		(at 190.5 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf51036f-1340-4be0-a480-66547fe564ed")
 	)
 	(junction
 		(at 25.4 172.72)
@@ -1605,6 +1701,36 @@
 	)
 	(wire
 		(pts
+			(xy 254 148.59) (xy 266.7 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13cf15a9-bd8e-41ad-825d-5598bcb0bf38")
+	)
+	(wire
+		(pts
+			(xy 215.9 148.59) (xy 228.6 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14e06966-dd9c-4f48-bd36-690951e3c664")
+	)
+	(wire
+		(pts
+			(xy 177.8 146.05) (xy 177.8 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15a78c51-c5ce-4127-89f2-83da3f96f220")
+	)
+	(wire
+		(pts
 			(xy 190.5 133.35) (xy 165.1 133.35)
 		)
 		(stroke
@@ -1645,6 +1771,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 163.83) (xy 215.9 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1af8daeb-3654-4d40-abd2-76d7170c563e")
+	)
+	(wire
+		(pts
 			(xy 19.05 133.35) (xy 25.4 133.35)
 		)
 		(stroke
@@ -1682,6 +1818,26 @@
 			(type default)
 		)
 		(uuid "22c0967a-8af8-4f9e-9e4f-ca7683cade6a")
+	)
+	(wire
+		(pts
+			(xy 241.3 163.83) (xy 228.6 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "235ef4ca-6d93-4a21-8bd4-328be92436c4")
+	)
+	(wire
+		(pts
+			(xy 203.2 163.83) (xy 190.5 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "239fc319-bf60-44f0-a602-abba98fb3f75")
 	)
 	(wire
 		(pts
@@ -1732,6 +1888,16 @@
 			(type default)
 		)
 		(uuid "28395a63-dc96-46d2-9b24-cec50eef4f59")
+	)
+	(wire
+		(pts
+			(xy 158.75 148.59) (xy 177.8 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29298836-d473-41ef-98ff-373601e8693c")
 	)
 	(wire
 		(pts
@@ -1885,6 +2051,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 163.83) (xy 241.3 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b0f348f-4ecf-4a63-b24c-91360a6ecdf1")
+	)
+	(wire
+		(pts
 			(xy 50.8 143.51) (xy 50.8 146.05)
 		)
 		(stroke
@@ -2015,6 +2191,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 146.05) (xy 215.9 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4facfc04-22d7-44ac-855f-96c2643773e2")
+	)
+	(wire
+		(pts
 			(xy 139.7 118.11) (xy 139.7 120.65)
 		)
 		(stroke
@@ -2022,6 +2208,16 @@
 			(type default)
 		)
 		(uuid "50d98fcb-7397-4a56-80c8-2d816c04459d")
+	)
+	(wire
+		(pts
+			(xy 266.7 161.29) (xy 266.7 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53506da5-f027-479b-acee-36e78b54e04f")
 	)
 	(wire
 		(pts
@@ -2095,6 +2291,16 @@
 	)
 	(wire
 		(pts
+			(xy 203.2 148.59) (xy 215.9 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c0a0cab-a847-4d86-a019-e9b0bca200ad")
+	)
+	(wire
+		(pts
 			(xy 215.9 54.61) (xy 215.9 57.15)
 		)
 		(stroke
@@ -2122,6 +2328,16 @@
 			(type default)
 		)
 		(uuid "5d087615-9ea0-4b19-b548-3c2447416b5f")
+	)
+	(wire
+		(pts
+			(xy 241.3 146.05) (xy 241.3 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d619880-dd42-4688-8beb-d5332965b7d3")
 	)
 	(wire
 		(pts
@@ -2185,6 +2401,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 158.75) (xy 158.75 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "610fbe36-6cb0-4af2-a859-0bfe57f28030")
+	)
+	(wire
+		(pts
 			(xy 50.8 158.75) (xy 76.2 158.75)
 		)
 		(stroke
@@ -2192,6 +2418,26 @@
 			(type default)
 		)
 		(uuid "6238644d-5258-42d2-97c8-8c0c2baf75f4")
+	)
+	(wire
+		(pts
+			(xy 203.2 161.29) (xy 203.2 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65178e24-c1de-4fd3-8e4b-31aba14d279f")
+	)
+	(wire
+		(pts
+			(xy 266.7 163.83) (xy 254 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "651dadc0-36c9-40c0-a0cf-752d4645912d")
 	)
 	(wire
 		(pts
@@ -2275,6 +2521,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 146.05) (xy 228.6 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69b045c3-09f6-48f5-884c-cc3b8d720399")
+	)
+	(wire
+		(pts
 			(xy 114.3 41.91) (xy 114.3 44.45)
 		)
 		(stroke
@@ -2345,6 +2601,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 148.59) (xy 190.5 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76a5f34f-440c-4cab-b9b9-5ed1b90a2840")
+	)
+	(wire
+		(pts
 			(xy 165.1 69.85) (xy 139.7 69.85)
 		)
 		(stroke
@@ -2382,6 +2648,26 @@
 			(type default)
 		)
 		(uuid "79800e39-9be8-4b7e-9434-c7a408f9eaf1")
+	)
+	(wire
+		(pts
+			(xy 177.8 163.83) (xy 158.75 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79c1b603-fa29-4ddb-bb6f-5fe209a480b9")
+	)
+	(wire
+		(pts
+			(xy 254 146.05) (xy 254 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c02e5e4-576d-4509-8bfa-b7e338edcec8")
 	)
 	(wire
 		(pts
@@ -2462,6 +2748,16 @@
 			(type default)
 		)
 		(uuid "8674c8b4-b15b-46e2-b1d7-84740f63ea3b")
+	)
+	(wire
+		(pts
+			(xy 254 161.29) (xy 254 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87cc8816-f0df-4f79-83d6-18b12e83b754")
 	)
 	(wire
 		(pts
@@ -2595,6 +2891,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 161.29) (xy 177.8 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9764697b-9a51-4844-9f60-6ce9bdcfb61a")
+	)
+	(wire
+		(pts
 			(xy 101.6 181.61) (xy 101.6 182.88)
 		)
 		(stroke
@@ -2612,6 +2918,16 @@
 			(type default)
 		)
 		(uuid "97c3e092-2339-45b6-827a-82da5d12f956")
+	)
+	(wire
+		(pts
+			(xy 190.5 148.59) (xy 203.2 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99b6cd75-bfe3-450a-8a27-62f0c56d19ce")
 	)
 	(wire
 		(pts
@@ -2742,6 +3058,16 @@
 			(type default)
 		)
 		(uuid "ab445167-2cd9-472c-af7e-a682f3beef8b")
+	)
+	(wire
+		(pts
+			(xy 190.5 146.05) (xy 190.5 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af5e0724-a8e9-4e97-b1df-0d3aeebd56a8")
 	)
 	(wire
 		(pts
@@ -2905,6 +3231,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 161.29) (xy 228.6 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2963a81-80b9-45ff-afe7-41b9bba3ab68")
+	)
+	(wire
+		(pts
 			(xy 241.3 95.25) (xy 215.9 95.25)
 		)
 		(stroke
@@ -2912,6 +3248,16 @@
 			(type default)
 		)
 		(uuid "c42c6fe5-8eb6-401e-a031-ddc818cee37d")
+	)
+	(wire
+		(pts
+			(xy 203.2 146.05) (xy 203.2 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5fd7abd-f74c-4ed2-8042-f634c09bb430")
 	)
 	(wire
 		(pts
@@ -2952,6 +3298,16 @@
 			(type default)
 		)
 		(uuid "c882f11d-cfd1-4159-83da-a6bd4db5e032")
+	)
+	(wire
+		(pts
+			(xy 127 158.75) (xy 158.75 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8e08ec5-7a40-40ee-a7d4-c2f482f7e5f1")
 	)
 	(wire
 		(pts
@@ -3015,6 +3371,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 148.59) (xy 241.3 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d023d14a-d634-45fe-a37e-c1d275002748")
+	)
+	(wire
+		(pts
 			(xy 165.1 54.61) (xy 165.1 57.15)
 		)
 		(stroke
@@ -3032,6 +3398,16 @@
 			(type default)
 		)
 		(uuid "d2a04ca1-8047-449b-8cda-129b96115c08")
+	)
+	(wire
+		(pts
+			(xy 215.9 163.83) (xy 203.2 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2b12c16-e5c4-443f-960f-32f45307ce6c")
 	)
 	(wire
 		(pts
@@ -3195,6 +3571,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 163.83) (xy 177.8 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3e92f47-e7df-46a2-a172-876150ef0e63")
+	)
+	(wire
+		(pts
 			(xy 25.4 182.88) (xy 30.48 182.88)
 		)
 		(stroke
@@ -3285,6 +3671,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 148.59) (xy 266.7 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef53e70f-c0b3-426c-9691-995ffcc02bb5")
+	)
+	(wire
+		(pts
 			(xy 165.1 44.45) (xy 139.7 44.45)
 		)
 		(stroke
@@ -3315,6 +3711,36 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 148.59) (xy 254 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4df3d32-60a7-4d06-86b2-87ef5e717576")
+	)
+	(wire
+		(pts
+			(xy 158.75 163.83) (xy 158.75 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f505c397-1eb2-47b5-b36b-6ab8984ae3da")
+	)
+	(wire
+		(pts
+			(xy 190.5 161.29) (xy 190.5 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f57c122f-657e-4024-ba49-da4f9d557a00")
+	)
+	(wire
+		(pts
 			(xy 114.3 95.25) (xy 88.9 95.25)
 		)
 		(stroke
@@ -3342,6 +3768,26 @@
 			(type default)
 		)
 		(uuid "fa60a447-5dcc-40e3-9e87-e9f4562ab882")
+	)
+	(wire
+		(pts
+			(xy 215.9 161.29) (xy 215.9 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcbcbf4d-0986-4221-854a-fffd0249e5fa")
+	)
+	(wire
+		(pts
+			(xy 241.3 161.29) (xy 241.3 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd02248a-c49c-4568-a06e-7da68afdc39d")
 	)
 	(wire
 		(pts
@@ -4560,6 +5006,82 @@
 		)
 	)
 	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 228.6 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "1e150d8a-6d39-4602-861d-f35d1e9986c3")
+		(property "Reference" "H112"
+			(at 228.6 151.3839 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 13"
+			(at 228.6 153.924 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 228.6 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 228.6 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 231.14 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 228.6 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0be630f3-1ceb-40b8-b189-e3da2186ac68")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H112")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 165.1 25.4 0)
 		(unit 1)
@@ -4629,6 +5151,82 @@
 			(project "DMH_Sequencer_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 177.8 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "2aa5ccd2-96ce-4349-9b12-6ddd01458f41")
+		(property "Reference" "H100"
+			(at 177.8 136.1439 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 1"
+			(at 177.8 138.684 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 177.8 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.8 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 180.34 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 177.8 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ef9d13a1-81db-4cc0-96c2-82c429bf6a17")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H100")
 					(unit 1)
 				)
 			)
@@ -5202,7 +5800,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate Out 6"
+		(property "Value" "Gate 6"
 			(at 218.44 127 90)
 			(effects
 				(font
@@ -5653,6 +6251,82 @@
 		)
 	)
 	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 190.5 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "4ae54264-c990-429c-8526-5ea9b4d11407")
+		(property "Reference" "H109"
+			(at 190.5 151.3839 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 10"
+			(at 190.5 153.924 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 190.5 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 190.5 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 193.04 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 190.5 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "97a0ad43-b427-42c9-98e0-57a906e9cf0c")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SynthStuff:MountingHole_ToggleSwitch")
 		(at 50.8 76.2 0)
 		(unit 1)
@@ -6051,6 +6725,82 @@
 			(project "DMH_Sequencer_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 266.7 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "56cfc422-ab71-49a6-a7fe-978151dfb820")
+		(property "Reference" "H107"
+			(at 266.7 136.1439 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 8"
+			(at 266.7 138.684 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 266.7 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 266.7 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 269.24 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 266.7 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b6593e97-5047-4225-bf6d-bb4971b38273")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H107")
 					(unit 1)
 				)
 			)
@@ -6587,7 +7337,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate Out 8"
+		(property "Value" "Gate 8"
 			(at 269.24 127 90)
 			(effects
 				(font
@@ -7066,7 +7816,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate Out 7"
+		(property "Value" "Gate 7"
 			(at 243.84 127 90)
 			(effects
 				(font
@@ -7199,6 +7949,158 @@
 			(project "DMH_Sequencer_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 177.8 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "769a9839-3397-4fdf-877a-f11a8893b963")
+		(property "Reference" "H108"
+			(at 177.8 151.3839 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 9"
+			(at 177.8 153.924 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 177.8 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.8 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 180.34 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 177.8 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "170e7c91-5eae-4c5a-b26e-fa4a93eb142b")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H108")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 203.2 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "7b1bbcf1-8fab-4199-ac2f-9f64e39bf5aa")
+		(property "Reference" "H110"
+			(at 203.2 151.3839 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 11"
+			(at 203.2 153.924 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 203.2 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 203.2 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 205.74 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 203.2 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fa612f4c-fb88-4455-8cd5-9cd88526d355")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H110")
 					(unit 1)
 				)
 			)
@@ -7529,7 +8431,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate Out 5"
+		(property "Value" "Gate 5"
 			(at 193.04 127 90)
 			(effects
 				(font
@@ -7747,7 +8649,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate Out 4"
+		(property "Value" "Gate 4"
 			(at 167.64 127 90)
 			(effects
 				(font
@@ -8295,7 +9197,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate Out 3"
+		(property "Value" "Gate 3"
 			(at 142.24 127 90)
 			(effects
 				(font
@@ -8349,6 +9251,82 @@
 			(project "DMH_Sequencer_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 203.2 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "9ce4d77f-8b4d-46e4-a43a-6dd750f09f2a")
+		(property "Reference" "H102"
+			(at 203.2 136.1439 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 3"
+			(at 203.2 138.684 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 203.2 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 203.2 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 205.74 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 203.2 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "15125a7f-00c2-4a86-84fd-a580b31d8a24")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H102")
 					(unit 1)
 				)
 			)
@@ -8443,7 +9421,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate Out 1"
+		(property "Value" "Gate 1"
 			(at 91.44 127 90)
 			(effects
 				(font
@@ -9455,7 +10433,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate Out 2"
+		(property "Value" "Gate 2"
 			(at 116.84 127 90)
 			(effects
 				(font
@@ -9591,6 +10569,82 @@
 			(project "DMH_Sequencer_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 254 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "c2e6ab9c-1d23-42b2-8c07-2ce3e6f9e346")
+		(property "Reference" "H114"
+			(at 254 151.3839 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 15"
+			(at 254 153.924 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 254 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 256.54 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 254 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2e4e3089-da5a-4bf6-869f-cade0172b6fb")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H114")
 					(unit 1)
 				)
 			)
@@ -10692,6 +11746,158 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 241.3 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "e0f46ce8-2f7d-4384-bda3-c95785c4db68")
+		(property "Reference" "H105"
+			(at 241.3 136.1439 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 6"
+			(at 241.3 138.684 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 241.3 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 241.3 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 243.84 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 241.3 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "23ddc820-c7e9-4ae6-b19e-2b238e33340a")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H105")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 190.5 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "e1611c60-e7a3-4122-b178-3fc15ef06023")
+		(property "Reference" "H101"
+			(at 190.5 136.1439 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 2"
+			(at 190.5 138.684 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 190.5 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 190.5 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 193.04 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 190.5 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "51c361ad-9c21-460b-b4d4-1ff781c5a8ce")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
 		(at 50.8 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11001,6 +12207,82 @@
 		)
 	)
 	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 241.3 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "e7e56862-8294-4cd6-9a1d-43fb7b541bbf")
+		(property "Reference" "H113"
+			(at 241.3 151.3839 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 14"
+			(at 241.3 153.924 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 241.3 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 241.3 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 243.84 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 241.3 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d33b0f7b-6a57-486b-86f4-7f2f66024233")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H113")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 215.9 76.2 0)
 		(unit 1)
@@ -11137,6 +12419,158 @@
 			(project ""
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H1006")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 254 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ee7075c2-e01d-4372-a390-4dece44d2219")
+		(property "Reference" "H106"
+			(at 254 136.1439 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 7"
+			(at 254 138.684 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 254 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 254 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 256.54 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 254 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8daa045a-e584-42a0-b4c6-9d66ab931972")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H106")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 266.7 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ee92c8e6-dec3-4cc8-9391-7d049b68d5c3")
+		(property "Reference" "H115"
+			(at 266.7 151.3839 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 16"
+			(at 266.7 153.924 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 266.7 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 266.7 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 269.24 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 266.7 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d47ed60f-3048-4862-9bd0-96528de34a9d")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H115")
 					(unit 1)
 				)
 			)
@@ -11448,6 +12882,234 @@
 			(project "DMH_Sequencer_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 215.9 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "f8a300e6-32b1-4f18-843d-8d6ec7e3acdf")
+		(property "Reference" "H103"
+			(at 215.9 136.1439 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 4"
+			(at 215.9 138.684 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 215.9 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 215.9 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 218.44 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 215.9 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4c5e7f66-4876-414c-bf78-aa2e56a79394")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 228.6 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "f90eb693-ba15-4e5b-9162-f7821484c1f9")
+		(property "Reference" "H104"
+			(at 228.6 136.1439 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 5"
+			(at 228.6 138.684 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 228.6 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 228.6 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 231.14 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 228.6 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3a58fd75-38e7-46f8-864b-e168cbff3cc4")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_Output_v2")
+		(at 215.9 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "f9416fd0-7822-4f3b-aca9-335b82c93641")
+		(property "Reference" "H111"
+			(at 215.9 151.3839 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Gate 12"
+			(at 215.9 153.924 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_Output_v6"
+			(at 215.9 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 215.9 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm Output"
+			(at 218.44 160.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 215.9 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4b47cc65-96db-4a4d-ad17-7bc2efd5608b")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H111")
 					(unit 1)
 				)
 			)
