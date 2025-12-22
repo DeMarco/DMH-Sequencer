@@ -3858,7 +3858,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Glide"
+		(property "Value" "Slew"
 			(at 27.94 50.8 0)
 			(effects
 				(font
@@ -7737,7 +7737,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Quant"
+		(property "Value" "8 / 16"
 			(at 27.94 88.9 0)
 			(effects
 				(font
@@ -10118,7 +10118,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Mode"
+		(property "Value" "Range"
 			(at 27.94 76.2 0)
 			(effects
 				(font
