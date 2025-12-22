@@ -3858,7 +3858,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew"
+		(property "Value" "Glide"
 			(at 27.94 50.8 0)
 			(effects
 				(font
@@ -4620,7 +4620,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 3"
+		(property "Value" "3"
 			(at 142.24 63.5 0)
 			(effects
 				(font
@@ -4863,7 +4863,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 13"
+		(property "Value" "13"
 			(at 193.04 114.3 0)
 			(effects
 				(font
@@ -5022,7 +5022,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 13"
+		(property "Value" "13"
 			(at 228.6 153.924 90)
 			(effects
 				(font
@@ -5173,7 +5173,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 1"
+		(property "Value" "1"
 			(at 177.8 138.684 90)
 			(effects
 				(font
@@ -5333,7 +5333,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 14"
+		(property "Value" "14"
 			(at 218.44 114.3 0)
 			(effects
 				(font
@@ -5800,7 +5800,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate 6"
+		(property "Value" "6"
 			(at 218.44 127 90)
 			(effects
 				(font
@@ -6267,7 +6267,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 10"
+		(property "Value" "10"
 			(at 190.5 153.924 90)
 			(effects
 				(font
@@ -6588,7 +6588,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 16"
+		(property "Value" "16"
 			(at 269.24 114.3 0)
 			(effects
 				(font
@@ -6747,7 +6747,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 8"
+		(property "Value" "8"
 			(at 266.7 138.684 90)
 			(effects
 				(font
@@ -6974,7 +6974,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate 9-16"
+		(property "Value" "9-16"
 			(at 53.34 127 90)
 			(effects
 				(font
@@ -7337,7 +7337,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate 8"
+		(property "Value" "8"
 			(at 269.24 127 90)
 			(effects
 				(font
@@ -7497,7 +7497,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 6"
+		(property "Value" "6"
 			(at 218.44 63.5 0)
 			(effects
 				(font
@@ -7658,7 +7658,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 1"
+		(property "Value" "1"
 			(at 91.44 63.5 0)
 			(effects
 				(font
@@ -7816,7 +7816,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate 7"
+		(property "Value" "7"
 			(at 243.84 127 90)
 			(effects
 				(font
@@ -7894,7 +7894,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 7"
+		(property "Value" "7"
 			(at 243.84 63.5 0)
 			(effects
 				(font
@@ -7971,7 +7971,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 9"
+		(property "Value" "9"
 			(at 177.8 153.924 90)
 			(effects
 				(font
@@ -8047,7 +8047,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 11"
+		(property "Value" "11"
 			(at 203.2 153.924 90)
 			(effects
 				(font
@@ -8282,7 +8282,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew CV Amt"
+		(property "Value" "CV Amt"
 			(at 53.34 50.8 0)
 			(effects
 				(font
@@ -8352,7 +8352,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 10"
+		(property "Value" "10"
 			(at 116.84 114.3 0)
 			(effects
 				(font
@@ -8431,7 +8431,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate 5"
+		(property "Value" "5"
 			(at 193.04 127 90)
 			(effects
 				(font
@@ -8649,7 +8649,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate 4"
+		(property "Value" "4"
 			(at 167.64 127 90)
 			(effects
 				(font
@@ -8954,7 +8954,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 8"
+		(property "Value" "8"
 			(at 269.24 63.5 0)
 			(effects
 				(font
@@ -9197,7 +9197,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate 3"
+		(property "Value" "3"
 			(at 142.24 127 90)
 			(effects
 				(font
@@ -9273,7 +9273,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 3"
+		(property "Value" "3"
 			(at 203.2 138.684 90)
 			(effects
 				(font
@@ -9421,7 +9421,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate 1"
+		(property "Value" "1"
 			(at 91.44 127 90)
 			(effects
 				(font
@@ -9811,7 +9811,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 12"
+		(property "Value" "12"
 			(at 167.64 114.3 0)
 			(effects
 				(font
@@ -10039,7 +10039,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 5"
+		(property "Value" "5"
 			(at 193.04 63.5 0)
 			(effects
 				(font
@@ -10197,7 +10197,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 15"
+		(property "Value" "15"
 			(at 243.84 114.3 0)
 			(effects
 				(font
@@ -10433,7 +10433,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate 2"
+		(property "Value" "2"
 			(at 116.84 127 90)
 			(effects
 				(font
@@ -10591,7 +10591,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 15"
+		(property "Value" "15"
 			(at 254 153.924 90)
 			(effects
 				(font
@@ -10669,7 +10669,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 11"
+		(property "Value" "11"
 			(at 142.24 114.3 0)
 			(effects
 				(font
@@ -11761,7 +11761,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 6"
+		(property "Value" "6"
 			(at 241.3 138.684 90)
 			(effects
 				(font
@@ -11837,7 +11837,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 2"
+		(property "Value" "2"
 			(at 190.5 138.684 90)
 			(effects
 				(font
@@ -12223,7 +12223,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 14"
+		(property "Value" "14"
 			(at 241.3 153.924 90)
 			(effects
 				(font
@@ -12441,7 +12441,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 7"
+		(property "Value" "7"
 			(at 254 138.684 90)
 			(effects
 				(font
@@ -12517,7 +12517,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 16"
+		(property "Value" "16"
 			(at 266.7 153.924 90)
 			(effects
 				(font
@@ -12904,7 +12904,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 4"
+		(property "Value" "4"
 			(at 215.9 138.684 90)
 			(effects
 				(font
@@ -12980,7 +12980,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 5"
+		(property "Value" "5"
 			(at 228.6 138.684 90)
 			(effects
 				(font
@@ -13056,7 +13056,7 @@
 				)
 			)
 		)
-		(property "Value" "Gate 12"
+		(property "Value" "12"
 			(at 215.9 153.924 90)
 			(effects
 				(font
@@ -13216,7 +13216,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 4"
+		(property "Value" "4"
 			(at 167.64 63.5 0)
 			(effects
 				(font
@@ -13370,7 +13370,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 9"
+		(property "Value" "9"
 			(at 91.44 114.3 0)
 			(effects
 				(font
@@ -13449,7 +13449,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Slew 2"
+		(property "Value" "2"
 			(at 116.84 63.5 0)
 			(effects
 				(font
