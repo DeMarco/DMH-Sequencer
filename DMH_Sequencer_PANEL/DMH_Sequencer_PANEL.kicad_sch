@@ -1068,6 +1068,12 @@
 		(uuid "2aeae13b-50b7-4986-993b-c2cd5563e16d")
 	)
 	(junction
+		(at 76.2 146.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f1d3163-3c2d-42ba-9eee-6dc6fd4f806a")
+	)
+	(junction
 		(at 215.9 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2071,7 +2077,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 146.05) (xy 101.6 146.05)
+			(xy 50.8 146.05) (xy 76.2 146.05)
 		)
 		(stroke
 			(width 0)
@@ -2371,6 +2377,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 146.05) (xy 76.2 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f1f43d4-858f-4a03-bf21-aac07fc2902a")
+	)
+	(wire
+		(pts
 			(xy 139.7 107.95) (xy 114.3 107.95)
 		)
 		(stroke
@@ -2541,7 +2557,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 143.51) (xy 101.6 146.05)
+			(xy 76.2 143.51) (xy 76.2 146.05)
 		)
 		(stroke
 			(width 0)
@@ -2918,6 +2934,16 @@
 			(type default)
 		)
 		(uuid "97c3e092-2339-45b6-827a-82da5d12f956")
+	)
+	(wire
+		(pts
+			(xy 101.6 143.51) (xy 101.6 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99a06ed0-cd5d-4525-9574-25721ef8d549")
 	)
 	(wire
 		(pts
@@ -5569,7 +5595,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Gate"
+		(property "Value" "Gate 1-8"
 			(at 27.94 127 90)
 			(effects
 				(font
@@ -5953,7 +5979,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "Reset"
+		(property "Value" "Rst 9-16"
 			(at 104.14 152.4 90)
 			(effects
 				(font
@@ -6321,6 +6347,76 @@
 			(project "DMH_Sequencer_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H109")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
+		(at 101.6 139.7 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4af7592d-951f-41e5-90cf-652a2fba47e2")
+		(property "Reference" "H116"
+			(at 104.14 137.1599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Rst 1-8"
+			(at 104.14 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
+			(at 101.6 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jack 6.35mm"
+			(at 104.14 142.2399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "1"
+			(uuid "404a7b4f-f2a9-4c92-8bfa-6a83d90cec6c")
+		)
+		(instances
+			(project "DMH_Sequencer_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H116")
 					(unit 1)
 				)
 			)
@@ -6961,8 +7057,8 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5af7321d-b603-4389-8e57-c448b0714b62")
 		(property "Reference" "H89"
@@ -6974,7 +7070,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "9-16"
+		(property "Value" "Gate 9-16"
 			(at 53.34 127 90)
 			(effects
 				(font
@@ -7119,7 +7215,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Clock Speed"
+		(property "Value" "Clock"
 			(at 27.94 25.4 0)
 			(effects
 				(font
@@ -11127,7 +11223,7 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:MountingHole_Jack6.35mm_v2")
-		(at 101.6 139.7 90)
+		(at 76.2 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -11136,7 +11232,7 @@
 		(fields_autoplaced yes)
 		(uuid "d3a92001-1038-483f-bd89-8988f59d43fd")
 		(property "Reference" "H92"
-			(at 104.14 137.1599 90)
+			(at 78.74 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11145,7 +11241,7 @@
 			)
 		)
 		(property "Value" "Transp"
-			(at 104.14 139.7 90)
+			(at 78.74 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11157,7 +11253,7 @@
 			)
 		)
 		(property "Footprint" "SynthStuff:Jack_6.35mm_Cutout_v3"
-			(at 101.6 139.7 0)
+			(at 76.2 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11166,7 +11262,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 101.6 139.7 0)
+			(at 76.2 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11175,7 +11271,7 @@
 			)
 		)
 		(property "Description" "Jack 6.35mm"
-			(at 104.14 142.2399 90)
+			(at 78.74 142.2399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
